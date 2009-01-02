@@ -3,72 +3,61 @@
   "name": "Bitcoin",
   "symbol": "BTC",
   "genesis_date": "2009-01-03",
-  "creator": "Satoshi Nakamoto",
+  "creator": "an anonymous individual/group under the name, Satoshi Nakamoto",
   "whitepaper": {
-    "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
-    "url": "https://bitcoin.org/bitcoin.pdf",
-    "date": "2008-10-31"
+    "title": "Bitcoin Whitepaper",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "date": null
   },
-  "description": "The first decentralized cryptocurrency, Bitcoin introduced blockchain technology and solved the double-spending problem in digital currencies.",
-  "problem_solved": "Double-spending problem in digital currencies without requiring a trusted third party",
-  "consensus_mechanism": "Proof of Work",
+  "description": "Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. It was created by an anonymous individual/group under the name, Satoshi Nakamoto. The source code is available publicly as an open source project, anybody can look at it and be part of the developmental process.\r\n\r\nBitcoin is changing the way we see money as we speak. The idea was to produce a means of exchange, independent of any central authority, that could be transferred electronically in a secure, verifiable and immutable way. It is a decentralized peer-to-peer internet currency making mobile payment easy, very low transaction fees, protects your identity, and it works anywhere all the time with no central authority and banks.\r\n\r\nBitcoin is designed to have only 21 million BTC ever created, thus making it a deflationary currency. Bitcoin uses the SHA-256 hashing algorithm with an average transaction confirmation time of 10 minutes. Miners today are mining Bitcoin using ASIC chip dedicated to only mining Bitcoin, and the hash rate has shot up to peta hashes.\r\n\r\nBeing the first successful online cryptography currency, Bitcoin has inspired other alternative currencies such as Litecoin, Peercoin, Primecoin, and so on.\r\n\r\nThe cryptocurrency then took off with the innovation of the turing-complete smart contract by Ethereum which led to the development of other amazing projects such as EOS, Tron, and even crypto-collectibles such as CryptoKitties.",
+  "problem_solved": "Problem description requires manual research",
+  "consensus_mechanism": "with an average transaction confirmation time of 10 minutes",
   "key_innovations": [
-    "Blockchain technology",
-    "Decentralized network",
-    "Cryptographic proof",
-    "Peer-to-peer electronic cash system"
+    "Innovation details require manual research"
   ],
   "milestones": [
     {
-      "date": "2008-10-31",
-      "event": "Bitcoin Whitepaper Published",
-      "details": "Satoshi Nakamoto publishes the Bitcoin whitepaper on the cryptography mailing list"
-    },
-    {
       "date": "2009-01-03",
-      "event": "Bitcoin Genesis Block Mined",
-      "details": "The first block of the Bitcoin blockchain is mined by Satoshi Nakamoto"
-    },
-    {
-      "date": "2009-01-12",
-      "event": "First Bitcoin Transaction",
-      "details": "Satoshi Nakamoto sends 10 BTC to Hal Finney in the first Bitcoin transaction"
-    },
-    {
-      "date": "2010-05-22",
-      "event": "Bitcoin Pizza Day",
-      "details": "Laszlo Hanyecz pays 10,000 BTC for two pizzas, the first real-world Bitcoin transaction"
+      "event": "Listed on cryptocurrency exchange",
+      "details": "Cryptocurrency was added to exchange database"
     }
   ],
   "market_data": {
-    "current_price": null,
-    "market_cap": null,
-    "volume_24h": null,
+    "current_price": 119000,
+    "market_cap": 2367926606928.344,
+    "volume_24h": 69322662637.7684,
     "circulating_supply": null,
     "total_supply": null,
-    "max_supply": 21000000
+    "max_supply": null
   },
   "metadata": {
-    "category": "Cryptocurrency",
+    "category": "Smart Contract Platform",
     "platform": null,
     "tags": [
-      "store-of-value",
-      "payments",
-      "decentralized"
+      "Smart Contract Platform",
+      "Layer 1 (L1)",
+      "FTX Holdings",
+      "Proof of Work (PoW)",
+      "Bitcoin Ecosystem",
+      "GMCI 30 Index",
+      "GMCI Index",
+      "Coinbase 50 Index"
     ],
     "urls": {
       "website": [
-        "https://bitcoin.org"
+        "http://www.bitcoin.org"
       ],
       "technical_doc": [
-        "https://bitcoin.org/bitcoin.pdf"
+        "https://github.com/bitcoin/bitcoin",
+        "https://github.com/bitcoin/bips"
       ],
       "source_code": [
-        "https://github.com/bitcoin/bitcoin"
+        "https://github.com/bitcoin/bitcoin",
+        "https://github.com/bitcoin/bips"
       ]
     },
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
-    "date_added": "2010-07-29T00:00:00.000Z",
-    "last_updated": "2025-08-15T03:09:09.376Z"
+    "logo": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+    "date_added": "2009-01-03",
+    "last_updated": "2025-08-15T03:25:45.675Z"
   }
 }
