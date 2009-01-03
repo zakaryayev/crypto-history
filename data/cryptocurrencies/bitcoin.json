@@ -1,0 +1,74 @@
+{
+  "id": "bitcoin",
+  "name": "Bitcoin",
+  "symbol": "BTC",
+  "genesis_date": "2009-01-03",
+  "creator": "Satoshi Nakamoto",
+  "whitepaper": {
+    "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+    "url": "https://bitcoin.org/bitcoin.pdf",
+    "date": "2008-10-31"
+  },
+  "description": "The first decentralized cryptocurrency, Bitcoin introduced blockchain technology and solved the double-spending problem in digital currencies.",
+  "problem_solved": "Double-spending problem in digital currencies without requiring a trusted third party",
+  "consensus_mechanism": "Proof of Work",
+  "key_innovations": [
+    "Blockchain technology",
+    "Decentralized network",
+    "Cryptographic proof",
+    "Peer-to-peer electronic cash system"
+  ],
+  "milestones": [
+    {
+      "date": "2008-10-31",
+      "event": "Bitcoin Whitepaper Published",
+      "details": "Satoshi Nakamoto publishes the Bitcoin whitepaper on the cryptography mailing list"
+    },
+    {
+      "date": "2009-01-03",
+      "event": "Bitcoin Genesis Block Mined",
+      "details": "The first block of the Bitcoin blockchain is mined by Satoshi Nakamoto"
+    },
+    {
+      "date": "2009-01-12",
+      "event": "First Bitcoin Transaction",
+      "details": "Satoshi Nakamoto sends 10 BTC to Hal Finney in the first Bitcoin transaction"
+    },
+    {
+      "date": "2010-05-22",
+      "event": "Bitcoin Pizza Day",
+      "details": "Laszlo Hanyecz pays 10,000 BTC for two pizzas, the first real-world Bitcoin transaction"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": 21000000
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [
+      "store-of-value",
+      "payments",
+      "decentralized"
+    ],
+    "urls": {
+      "website": [
+        "https://bitcoin.org"
+      ],
+      "technical_doc": [
+        "https://bitcoin.org/bitcoin.pdf"
+      ],
+      "source_code": [
+        "https://github.com/bitcoin/bitcoin"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+    "date_added": "2010-07-29T00:00:00.000Z",
+    "last_updated": "2025-08-15T03:07:01.536Z"
+  }
+}
