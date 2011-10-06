@@ -1,0 +1,68 @@
+{
+  "id": "litecoin",
+  "name": "Litecoin",
+  "symbol": "LTC",
+  "genesis_date": "2011-10-07",
+  "creator": "Charlie Lee",
+  "whitepaper": {
+    "title": "Litecoin: A peer-to-peer Internet currency",
+    "url": "https://litecoin.org/en/about/",
+    "date": "2011-10-07"
+  },
+  "description": "Litecoin is a peer-to-peer cryptocurrency that enables instant, near-zero cost payments to anyone in the world.",
+  "problem_solved": "Faster transaction confirmation times and improved storage efficiency compared to Bitcoin",
+  "consensus_mechanism": "Proof of Work",
+  "key_innovations": [
+    "Faster block generation (2.5 minutes vs 10 minutes)",
+    "Scrypt hashing algorithm",
+    "Higher maximum supply (84 million vs 21 million)"
+  ],
+  "milestones": [
+    {
+      "date": "2011-10-07",
+      "event": "Litecoin Genesis Block",
+      "details": "Charlie Lee mines the first Litecoin block"
+    },
+    {
+      "date": "2011-10-13",
+      "event": "Litecoin Source Code Released",
+      "details": "Litecoin source code is released on GitHub"
+    },
+    {
+      "date": "2013-11-28",
+      "event": "Litecoin Reaches $1",
+      "details": "Litecoin price reaches $1 for the first time"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": 84000000
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [
+      "payments",
+      "fast-transactions",
+      "silver-to-bitcoin-gold"
+    ],
+    "urls": {
+      "website": [
+        "https://litecoin.org"
+      ],
+      "technical_doc": [
+        "https://litecoin.org/en/about/"
+      ],
+      "source_code": [
+        "https://github.com/litecoin-project/litecoin"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+    "date_added": "2013-04-28T00:00:00.000Z",
+    "last_updated": "2025-08-15T03:09:09.377Z"
+  }
+}
