@@ -1,0 +1,37 @@
+{
+  "id": "ltc",
+  "name": "Litecoin",
+  "symbol": "LTC",
+  "genesis_date": "2011-10-07",
+  "creator": "Charlie Lee",
+  "description": "Litecoin cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Proof of Work",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2011-10-07",
+      "event": "Litecoin Launch",
+      "details": "Litecoin was launched on 2011-10-07"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2011-10-07",
+    "last_updated": "2025-08-15T03:40:14.940Z"
+  }
+}
