@@ -1,0 +1,37 @@
+{
+  "id": "xrp",
+  "name": "Ripple",
+  "symbol": "XRP",
+  "genesis_date": "2012-09-26",
+  "creator": "Ripple Labs",
+  "description": "Ripple cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Consensus Protocol",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2012-09-26",
+      "event": "Ripple Launch",
+      "details": "Ripple was launched on 2012-09-26"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2012-09-26",
+    "last_updated": "2025-08-15T03:40:51.667Z"
+  }
+}
