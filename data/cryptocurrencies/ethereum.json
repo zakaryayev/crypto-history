@@ -1,0 +1,80 @@
+{
+  "id": "ethereum",
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "genesis_date": "2015-07-30",
+  "creator": "Vitalik Buterin",
+  "whitepaper": {
+    "title": "Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform",
+    "url": "https://ethereum.org/en/whitepaper/",
+    "date": "2013-11-27"
+  },
+  "description": "Ethereum is a decentralized platform that enables the creation of smart contracts and decentralized applications (dApps).",
+  "problem_solved": "Limited programmability of blockchain technology, enabling complex decentralized applications",
+  "consensus_mechanism": "Proof of Stake (previously Proof of Work)",
+  "key_innovations": [
+    "Smart contracts",
+    "Decentralized applications (dApps)",
+    "Ethereum Virtual Machine (EVM)",
+    "ERC token standards"
+  ],
+  "milestones": [
+    {
+      "date": "2013-11-27",
+      "event": "Ethereum Whitepaper Published",
+      "details": "Vitalik Buterin publishes the Ethereum whitepaper"
+    },
+    {
+      "date": "2014-07-22",
+      "event": "Ethereum ICO Launch",
+      "details": "Ethereum launches its initial coin offering (ICO), raising over $18 million"
+    },
+    {
+      "date": "2015-07-30",
+      "event": "Ethereum Mainnet Launch",
+      "details": "Ethereum Frontier, the first public release of Ethereum, goes live"
+    },
+    {
+      "date": "2016-06-17",
+      "event": "The DAO Hack",
+      "details": "The DAO smart contract is exploited, leading to the Ethereum Classic fork"
+    },
+    {
+      "date": "2022-09-15",
+      "event": "The Merge",
+      "details": "Ethereum transitions from Proof of Work to Proof of Stake consensus"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Smart Contract Platform",
+    "platform": null,
+    "tags": [
+      "smart-contracts",
+      "dapps",
+      "defi",
+      "nft"
+    ],
+    "urls": {
+      "website": [
+        "https://ethereum.org"
+      ],
+      "technical_doc": [
+        "https://ethereum.org/en/whitepaper/"
+      ],
+      "source_code": [
+        "https://github.com/ethereum/go-ethereum"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "date_added": "2015-08-07T00:00:00.000Z",
+    "last_updated": "2025-08-15T03:09:09.377Z"
+  }
+}
