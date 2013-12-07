@@ -1,0 +1,37 @@
+{
+  "id": "doge",
+  "name": "Dogecoin",
+  "symbol": "DOGE",
+  "genesis_date": "2013-12-08",
+  "creator": "Billy Markus & Jackson Palmer",
+  "description": "Dogecoin cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Proof of Work",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2013-12-08",
+      "event": "Dogecoin Launch",
+      "details": "Dogecoin was launched on 2013-12-08"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2013-12-08",
+    "last_updated": "2025-08-15T03:58:56.636Z"
+  }
+}
