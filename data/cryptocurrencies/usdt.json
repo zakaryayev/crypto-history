@@ -1,0 +1,37 @@
+{
+  "id": "usdt",
+  "name": "Tether",
+  "symbol": "USDT",
+  "genesis_date": "2014-10-06",
+  "creator": "Tether Limited",
+  "description": "Tether cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Ethereum-based",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2014-10-06",
+      "event": "Tether Launch",
+      "details": "Tether was launched on 2014-10-06"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2014-10-06",
+    "last_updated": "2025-08-15T03:59:27.889Z"
+  }
+}
