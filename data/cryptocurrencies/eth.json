@@ -1,0 +1,37 @@
+{
+  "id": "eth",
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "genesis_date": "2015-07-30",
+  "creator": "Vitalik Buterin",
+  "description": "Ethereum cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Proof of Stake",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2015-07-30",
+      "event": "Ethereum Launch",
+      "details": "Ethereum was launched on 2015-07-30"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2015-07-30",
+    "last_updated": "2025-08-15T03:37:36.440Z"
+  }
+}
