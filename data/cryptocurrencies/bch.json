@@ -1,0 +1,37 @@
+{
+  "id": "bch",
+  "name": "Bitcoin Cash",
+  "symbol": "BCH",
+  "genesis_date": "2017-08-01",
+  "creator": "Bitcoin Cash Community",
+  "description": "Bitcoin Cash cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Proof of Work",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2017-08-01",
+      "event": "Bitcoin Cash Launch",
+      "details": "Bitcoin Cash was launched on 2017-08-01"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2017-08-01",
+    "last_updated": "2025-08-15T03:43:56.196Z"
+  }
+}
