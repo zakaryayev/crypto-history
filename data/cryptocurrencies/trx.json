@@ -1,0 +1,37 @@
+{
+  "id": "trx",
+  "name": "TRON",
+  "symbol": "TRX",
+  "genesis_date": "2017-09-13",
+  "creator": "Justin Sun",
+  "description": "TRON cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Delegated Proof of Stake",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2017-09-13",
+      "event": "TRON Launch",
+      "details": "TRON was launched on 2017-09-13"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2017-09-13",
+    "last_updated": "2025-08-15T04:01:18.955Z"
+  }
+}
