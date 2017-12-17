@@ -1,0 +1,37 @@
+{
+  "id": "dai",
+  "name": "Dai",
+  "symbol": "DAI",
+  "genesis_date": "2017-12-18",
+  "creator": "MakerDAO",
+  "description": "Dai cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Ethereum-based",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2017-12-18",
+      "event": "Dai Launch",
+      "details": "Dai was launched on 2017-12-18"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2017-12-18",
+    "last_updated": "2025-08-15T04:01:28.955Z"
+  }
+}
