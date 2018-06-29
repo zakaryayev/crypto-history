@@ -1,0 +1,37 @@
+{
+  "id": "vet",
+  "name": "VeChain",
+  "symbol": "VET",
+  "genesis_date": "2018-06-30",
+  "creator": "Sunny Lu",
+  "description": "VeChain cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Proof of Authority",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2018-06-30",
+      "event": "VeChain Launch",
+      "details": "VeChain was launched on 2018-06-30"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2018-06-30",
+    "last_updated": "2025-08-15T04:01:48.971Z"
+  }
+}
