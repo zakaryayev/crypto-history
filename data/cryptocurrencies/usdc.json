@@ -1,0 +1,37 @@
+{
+  "id": "usdc",
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "genesis_date": "2018-09-26",
+  "creator": "Circle",
+  "description": "USD Coin cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Ethereum-based",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2018-09-26",
+      "event": "USD Coin Launch",
+      "details": "USD Coin was launched on 2018-09-26"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2018-09-26",
+    "last_updated": "2025-08-15T04:01:58.147Z"
+  }
+}
