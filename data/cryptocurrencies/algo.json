@@ -1,0 +1,37 @@
+{
+  "id": "algo",
+  "name": "Algorand",
+  "symbol": "ALGO",
+  "genesis_date": "2019-06-19",
+  "creator": "Silvio Micali",
+  "description": "Algorand cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Pure Proof of Stake",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2019-06-19",
+      "event": "Algorand Launch",
+      "details": "Algorand was launched on 2019-06-19"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2019-06-19",
+    "last_updated": "2025-08-15T04:02:25.933Z"
+  }
+}
