@@ -1,0 +1,37 @@
+{
+  "id": "ftm",
+  "name": "Fantom",
+  "symbol": "FTM",
+  "genesis_date": "2019-12-27",
+  "creator": "Andre Cronje",
+  "description": "Fantom cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Proof of Stake",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2019-12-27",
+      "event": "Fantom Launch",
+      "details": "Fantom was launched on 2019-12-27"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2019-12-27",
+    "last_updated": "2025-08-15T03:45:28.944Z"
+  }
+}
