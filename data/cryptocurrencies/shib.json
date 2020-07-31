@@ -1,0 +1,37 @@
+{
+  "id": "shib",
+  "name": "Shiba Inu",
+  "symbol": "SHIB",
+  "genesis_date": "2020-08-01",
+  "creator": "Ryoshi",
+  "description": "Shiba Inu cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Ethereum-based",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2020-08-01",
+      "event": "Shiba Inu Launch",
+      "details": "Shiba Inu was launched on 2020-08-01"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2020-08-01",
+    "last_updated": "2025-08-15T04:03:08.609Z"
+  }
+}
