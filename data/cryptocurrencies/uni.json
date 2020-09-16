@@ -1,0 +1,37 @@
+{
+  "id": "uni",
+  "name": "Uniswap",
+  "symbol": "UNI",
+  "genesis_date": "2020-09-17",
+  "creator": "Hayden Adams",
+  "description": "Uniswap cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Ethereum-based",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2020-09-17",
+      "event": "Uniswap Launch",
+      "details": "Uniswap was launched on 2020-09-17"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2020-09-17",
+    "last_updated": "2025-08-15T03:45:56.726Z"
+  }
+}
