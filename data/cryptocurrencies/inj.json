@@ -1,0 +1,37 @@
+{
+  "id": "inj",
+  "name": "Injective",
+  "symbol": "INJ",
+  "genesis_date": "2020-11-16",
+  "creator": "Injective Labs",
+  "description": "Injective cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Proof of Stake",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2020-11-16",
+      "event": "Injective Launch",
+      "details": "Injective was launched on 2020-11-16"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2020-11-16",
+    "last_updated": "2025-08-15T04:03:19.988Z"
+  }
+}
