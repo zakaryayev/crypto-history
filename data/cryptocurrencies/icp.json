@@ -1,0 +1,37 @@
+{
+  "id": "icp",
+  "name": "Internet Computer",
+  "symbol": "ICP",
+  "genesis_date": "2021-05-10",
+  "creator": "DFINITY Foundation",
+  "description": "Internet Computer cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Proof of Stake",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2021-05-10",
+      "event": "Internet Computer Launch",
+      "details": "Internet Computer was launched on 2021-05-10"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2021-05-10",
+    "last_updated": "2025-08-15T04:03:38.239Z"
+  }
+}
