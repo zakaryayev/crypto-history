@@ -1,0 +1,37 @@
+{
+  "id": "apt",
+  "name": "Aptos",
+  "symbol": "APT",
+  "genesis_date": "2022-10-17",
+  "creator": "Aptos Labs",
+  "description": "Aptos cryptocurrency",
+  "problem_solved": "Problem description requires research",
+  "consensus_mechanism": "Proof of Stake",
+  "key_innovations": [
+    "Innovation details require research"
+  ],
+  "milestones": [
+    {
+      "date": "2022-10-17",
+      "event": "Aptos Launch",
+      "details": "Aptos was launched on 2022-10-17"
+    }
+  ],
+  "market_data": {
+    "current_price": null,
+    "market_cap": null,
+    "volume_24h": null,
+    "circulating_supply": null,
+    "total_supply": null,
+    "max_supply": null
+  },
+  "metadata": {
+    "category": "Cryptocurrency",
+    "platform": null,
+    "tags": [],
+    "urls": {},
+    "logo": null,
+    "date_added": "2022-10-17",
+    "last_updated": "2025-08-15T04:04:33.078Z"
+  }
+}
